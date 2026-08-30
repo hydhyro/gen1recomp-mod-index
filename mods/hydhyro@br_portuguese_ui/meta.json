@@ -1,0 +1,14 @@
+{
+  "id": "br_portuguese_ui",
+  "title": "Interface em PT-BR (Launcher)",
+  "author": "hydhyro",
+  "version": "0.1.2",
+  "categories": [
+    "TRANSLATION"
+  ],
+  "repo": "https://github.com/hydhyro/gen1recomp_portuguese_ui",
+  "summary": "Tradução da interface do Launcher para PT-BR (Português do Brasil)..",
+  "github": "hydhyro/gen1recomp_portuguese_ui",
+  "api": 2,
+  "profile": "content"
+}
